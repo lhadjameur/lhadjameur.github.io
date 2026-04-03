@@ -1,0 +1,10 @@
+title: Lhadj Ameur
+description: Personal Portfolio Website
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+  - blog.md
