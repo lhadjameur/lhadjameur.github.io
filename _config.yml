@@ -1,4 +1,4 @@
-title: Lhadj Ameur
+title: Lhadj Mhandou Ameur
 description: Personal Portfolio Website
 theme: minima
 
@@ -8,3 +8,6 @@ header_pages:
   - projects.md
   - contact.md
   - blog.md
+
+sass:
+  style: compressed
