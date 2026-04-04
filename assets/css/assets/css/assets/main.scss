@@ -3,13 +3,7 @@
 
 @import "minima";
 
-/* GLOBAL */
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background: #f4f6f8;
-}
-
-/* HERO SECTION */
+/* HERO */
 .hero {
   text-align: center;
   padding: 100px 20px;
@@ -17,16 +11,6 @@ body {
   color: white;
   border-radius: 15px;
   margin-top: 20px;
-}
-
-.hero h1 {
-  font-size: 2.8rem;
-  margin-bottom: 10px;
-}
-
-.hero p {
-  font-size: 1.3rem;
-  margin-bottom: 20px;
 }
 
 /* BUTTON */
@@ -37,11 +21,6 @@ body {
   border-radius: 25px;
   text-decoration: none;
   font-weight: bold;
-  transition: 0.3s;
-}
-
-.btn:hover {
-  background: #eee;
 }
 
 /* CARDS */
@@ -51,14 +30,4 @@ body {
   margin: 20px 0;
   border-radius: 15px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-  transition: 0.3s;
-}
-
-.card:hover {
-  transform: translateY(-5px);
-}
-
-/* HEADINGS */
-h1, h2 {
-  color: #2c3e50;
 }
