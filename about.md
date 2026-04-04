@@ -37,7 +37,7 @@ title: About
 <div class="ab-grid">
   <div class="ab-text">
     <h2>👋 Hello, I'm Lhadj</h2>
-    <p>I'm a student at <strong>Vistula University (AFiBV), Warsaw</strong>, studying Internet Technologies. I'm passionate about web development and enjoy turning ideas into real, working websites.</p>
+    <p>I'm a student at <strong>Vistula University (AFiBV), Warsaw</strong>, studying Computer engineering. I'm passionate about web development and enjoy turning ideas into real, working websites.</p>
     <p>My journey into tech started with one question — how do websites actually work? That curiosity led me to HTML, CSS, GitHub, and beyond. Every project I build teaches me something new.</p>
     <p>When I'm not coding, I'm exploring new tools, reading tech articles, or working on personal projects to sharpen my skills.</p>
   </div>
